@@ -1,0 +1,4 @@
+/* Main App styles - using global styles from index.css */
+.App {
+  min-height: 100vh;
+}
